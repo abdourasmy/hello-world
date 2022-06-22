@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhello_world"]=self["webpackChunkhello_world"]||[]).push([[443],{1365:function(l,n,u){u.r(n),u.d(n,{default:function(){return v}});var a=u(3396),e=u(8451);const t=l=>((0,a.dD)("data-v-4842404c"),l=l(),(0,a.Cn)(),l),c={class:"about"},o=t((()=>(0,a._)("h1",null,"About Abdullah",-1))),r=t((()=>(0,a._)("img",{class:"me",alt:"Vue logo",src:e},null,-1))),s=[o,r];function d(l,n){return(0,a.wg)(),(0,a.iD)("div",c,s)}var h=u(89);const i={},f=(0,h.Z)(i,[["render",d],["__scopeId","data-v-4842404c"]]);var v=f}}]);
+//# sourceMappingURL=about.51f68f15.js.map
